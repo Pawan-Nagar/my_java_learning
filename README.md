@@ -1,2 +1,2 @@
 # my_java_learning
-I am praticing the question from the tutorial Apna College.
+I am praticing the question DSA from the tutorial Apna College.
